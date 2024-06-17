@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T01:12:30.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.4" etag="FUmubUqNjz2XKeqmCgAO" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T01:14:44.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Bdzz_m-W97NOHGWTVUFn" version="24.5.4" type="github">
   <diagram name="Page-1" id="MxUdPvIQFtwV6IoKpF-9">
-    <mxGraphModel>
+    <mxGraphModel dx="897" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hcjHnvO5shnW2I1WF8nm-1" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="530" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hcjHnvO5shnW2I1WF8nm-3" value="supervisor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="228" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
